@@ -1,1 +1,5 @@
 print("my first programm for github") 
+print("hi")
+print("hello")
+print("jaa jaa")
+print("ahdh")
